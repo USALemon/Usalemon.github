@@ -12,6 +12,8 @@
 
 <h3>购买成功！</h3>
 
+<h3>返回<a href="/res.html" style=\"text-decoration:none"><input type="button" id="bt" onclick="window.location.href('连接')" value="返回"><a></h3>
+
 </body>
 
 </html>
